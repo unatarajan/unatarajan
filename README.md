@@ -9,7 +9,7 @@ TypeScript, JavaScript, Python, React (Material UI), HTML/CSS, Node (Express), C
 
 🌊 Co-creator of Kafka Sonar, a dev tool published to 18+ million users. See https://kafkasonar.io/ or Featured Medium to deep dive.
 
-👩🏽‍💻 Software engineering projects: bit.ly/m/upasana-natarajan (DevOps projects on GitLab), github.com/unatarajan.
+👩🏽‍💻 Software engineering projects: bit.ly/m/upasana-natarajan (DevOps portfolio on GitLab), github.com/unatarajan.
 
 🎓 Rutgers University, BA, Cognitive Science (Neurobiology track) and Mathematics.
 
